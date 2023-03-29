@@ -1,7 +1,13 @@
-Tự kích hoạt windows 11/10 cực sạch năm 2023
+**Tự kích hoạt windows 10/11 cực sạch năm 2023**
 
-⚠️Lưu ý: Chỉ hoạt động từ windows 10 trở lên⚠️
+⚠️*Lưu ý: Chỉ hoạt động từ windows 10 trở lên*⚠️
 
-Mở powershell với quyền quản trị viên, dán vào dòng lệnh sau khi nhập:
+- Mở powershell với quyền admin, dán vào dòng lệnh sau enter:
+
+```sh
+
 irm https://massgrave.dev/get | iex
-In the number 1 in the next window by the current is activate to public.
+
+```
+
+- Ấn số 1 ở cửa sổ tiếp theo hiện ra là kích hoạt thành công.
